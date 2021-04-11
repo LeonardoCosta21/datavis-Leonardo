@@ -10,9 +10,6 @@
 [index08.html](basic/index08.html)<br>
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
-[chicago_crimes.html](basic/chicago_crimes.html)<br>
-[earthquakes.html](basic/earthquakes.html)<br>
-
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
